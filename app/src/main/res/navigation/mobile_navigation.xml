@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_dashboard">
+
+    <fragment
+        android:id="@+id/navigation_about"
+        android:name="com.sujina.prepacnc.ui.about.AboutFragment"
+        android:label="@string/title_about"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/navigation_feedback"
+        android:name="com.sujina.prepacnc.ui.feedback.FeedbackFragment"
+        android:label="@string/title_feedback"
+        tools:layout="@layout/fragment_feedback" />
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.sujina.prepacnc.ui.dashboard.DashboardFragment"
+        android:label="@string/title_dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.sujina.prepacnc.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_feedback" />
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.sujina.prepacnc.ui.settings.SettingsFragment"
+        android:label="@string/title_settings"
+        tools:layout="@layout/fragment_dashboard" />
+</navigation>

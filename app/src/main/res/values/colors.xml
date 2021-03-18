@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_icon">#D0D0D0</color>
+    <color name="blue_icon">#0007B6</color>
+    <color name="gray_bg">#8F8F8F</color>
+    <color name="maths">#3A6C87</color>
+    <color name="physics">#20AF62</color>
+    <color name="sii">#0097A7</color>
+    <color name="python">#004183</color>
+    <color name="chimie">#1D67B1</color>
+    <color name="dark_gray">#5C5454</color>
+    <color name="user_name">#004183</color>
+    <color name="blue_svg">#2678F4</color>
+    <color name="circle_shape">#ECEBEB</color>
+</resources>
