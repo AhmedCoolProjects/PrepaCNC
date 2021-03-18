@@ -117,4 +117,9 @@
     <string name="nbr_courses">18</string>
     <string name="rattrapage_string">Rattrapage</string>
     <string name="sujet1_string">Exam</string>
+    <string name="owner_email">jinacoolprojects@gmail.com</string>
+    <string name="hint_feedback">Your Feedback...</string>
+    <string name="version_string">version: 1.0</string>
+    <string name="contact_string">contact: jinacoolprojects@gmail.com</string>
+    <string name="site_string">site: jina-cool.web.app</string>
 </resources>
